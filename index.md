@@ -4,6 +4,7 @@
 ```
 print('Hello, world!')
 ```
+[README link](README.md)
 
 My name is **Duc** and I'm a Computer Engineering Student at the University of California, San Diego. 
 I was born in Vietnam, but immigrated to the U.S. and have lived in San Diego ever since I was six years old. 
@@ -20,9 +21,8 @@ I was born in Vietnam, but immigrated to the U.S. and have lived in San Diego ev
 2. Bánh mì (Vietnamese sandwich)
 3. Spring rolls
 
-**My favorite quote:**
+**My favorite quote:** [-->](Screenshots/quote.jpg)
 > "We didn’t realize we were making memories, we just knew we were having fun."
-[favorite quote](Screenshots/quote.jpg)
 
 ## Who I am as a Programmer
 I came into UCSD having no experience in coding or much of any Computer Science fundamentals, thus it was 
