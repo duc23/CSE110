@@ -1,5 +1,5 @@
 # About Me
-[Photo of me](Screenshots/photo_of_me.jpeg)
+![Photo of me](Screenshots/photo_of_me.jpeg)
 
 ```
 print('Hello, world!')
@@ -22,7 +22,7 @@ I was born in Vietnam, but immigrated to the U.S. and have lived in San Diego ev
 
 **My favorite quote:**
 > "We didn’t realize we were making memories, we just knew we were having fun."
-![favorite quote](Screenshots/quote.jpeg)
+[favorite quote](Screenshots/quote.jpg)
 
 ## Who I am as a Programmer
 I came into UCSD having no experience in coding or much of any Computer Science fundamentals, thus it was 
