@@ -32,6 +32,6 @@ My first ever project was creating an [informational website](http://spis-eclips
 has piqued my interest for software engineering, especially for front-end development, and I knew I wanted to do something like that in the future. 
 
 ### My career goals
-- [] Graduate and get a SWE role, preferably as a full-stack developer.  
-- [] Work for my dream company, Riot Games, and have exposure to game development. 
-- [] Become a senior software engineer. 
+- [ ] Graduate and get a SWE role, preferably as a full-stack developer.  
+- [ ] Work for my dream company, Riot Games, and have exposure to game development. 
+- [ ] Become a senior software engineer. 
